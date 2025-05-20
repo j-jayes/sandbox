@@ -1,0 +1,90 @@
+HistoricalLaborDisplacementStudy{
+  "authors": [
+    "U.S. Department of Labor, Bureau of Labor Statistics (Division of Technological Studies staff: Rose N. Zeisel, James D. York, Morton Levine, David H. Miller, Richard W. Riche)"
+  ],
+  "title": "Technological Change and Manpower Trends in Six Industries (Bulletin 1817)",
+  "year_of_publication": 1974,
+  "journal_or_publisher": "U.S. Department of Labor, Bureau of Labor Statistics",
+  "include_in_extraction": true,
+  "topic": "Appraisal of major technological changes in six US industries (Textiles, Lumber, Tires, Aluminum, Banking, Health Services) and their impact on productivity and occupations, with trends from ~1960-1973 and projections to 1980/1985[cite: 4, 5].",
+  "relevance_assessment": "Included because it empirically examines the impact (productivity, occupational shifts, unit labor requirements) of technologies being adopted in the 1960s and early 1970s (pre-1980) across six diverse US industries. Focuses on contemporary trends (at publication) based on historical data relevant to the pre-1980 period[cite: 4, 5, 34, 194, 363, 491, 665, 861].",
+  "technologies": [
+    "Automation and mechanization (e.g., textiles[cite: 43], lumber sorting/stacking[cite: 207, 248], aluminum pot-tending[cite: 510, 513], automated bank tellers[cite: 666, 686], automated clinical labs [cite: 862, 889])",
+    "Computerization (process control in textiles, aluminum, tires[cite: 68, 94, 383, 492, 511]; information systems/data processing in aluminum, banking, health [cite: 519, 666, 681, 714, 862, 921])",
+    "Faster / larger capacity equipment (e.g., textile looms[cite: 61], tire manufacturing equipment[cite: 363, 379], aluminum rolling mills [cite: 496, 556])",
+    "New processes (e.g., open-end spinning[cite: 46, 57], shuttleless weaving[cite: 46, 63], chipping headrigs[cite: 207, 242], continuous casting in aluminum[cite: 498, 546], electronic funds transfer[cite: 666, 755], multiphasic screening [cite: 864, 898])",
+    "New materials (e.g., synthetic fibers in textiles[cite: 49], radial tire components/steel cord [cite: 365, 391, 412])",
+    "Improved materials handling (across manufacturing sectors) [cite: 43, 166, 213, 364, 380, 518, 900]"
+  ],
+  "study_type": "Quantitative (Primarily based on analysis of statistical trends and projections, with descriptive technological appraisals).",
+  "methodology": "Industry case studies, analysis of statistical data (output, employment, man-hours, capital expenditures, R&D), technological appraisal, economic projections, comparative plant data analysis (value added per man-hour) [cite: 4, 7, 11, 14-19, 117-123, 294-301, 430-433, 598-607].",
+  "occupations": [
+    "Semiskilled operators (unit requirements generally declining, job content changing)",
+    "Unskilled laborers (unit requirements generally declining due to automation/mechanization) [cite: 34, 166, 194-195, 364, 462, 499]",
+    "Skilled craft/maintenance workers (importance often increasing due to complex machinery) [cite: 167, 197, 416, 467-468, 640]",
+    "Clerical workers (declining roles: bookkeepers, check sorters; growing roles in other areas) [cite: 675, 729, 824-830]",
+    "Professional, technical, managerial workers (share generally increasing) [cite: 169, 326, 340-342, 833]",
+    "Computer specialists (programmers, analysts, operators - growing demand) [cite: 168, 677, 692, 728, 814-815, 831-832, 875, 1020]",
+    "Specific industry roles (e.g., weavers, spinners, fellers, sawyers, tire builders, potmen, tellers, nurses, technologists) affected differently by specific technologies"
+  ],
+  "occupation_types": "Main occupations in formal employment settings.",
+  "occupation_classifications": [
+    "Standard Occupational Classification (implied by broad categories)",
+    "Standard Industrial Classification (SIC) codes used for industries [cite: 5]"
+  ],
+  "gross_vs_net": "Primarily Net. Focuses on net employment trends/projections and occupational structure changes. Acknowledges potential gross displacement via reduced unit labor requirements but often offset by output growth in the period studied[cite: 34, 41, 203, 371, 501, 674, 801].",
+  "sample_size": "Six major US industries (Textiles, Lumber, Tires, Aluminum, Banking, Health Services), using industry-level data and specific plant/survey data where cited [cite: 5, 117-123, 294-301, 430-433, 598-607, 724, 990].",
+  "sample_characteristics": "US industries. Includes some analysis of workforce composition (e.g., women, minority workers) [cite: 39, 152-158, 809-817, 1001].",
+  "time_period_covered": "Primarily analyzes trends from 1960 to 1971/1972/1973, with projections to 1980 and 1985[cite: 4, 6, 14].",
+  "time_period_start": 1960,
+  "time_period_end": 1973,
+  "geographical_focus": "United States",
+  "independent_variables_technologies": "Adoption/diffusion of specific new or improved machines, processes, automation, computerization, new materials. Measured indirectly via capital expenditures, R&D spending, productivity trends [cite: 4, 37, 198, 368, 503-504].",
+  "displaced_description": "Focus is on 'reducing unit labor requirements' [cite: 34, 44, 194, 364, 499, 673] and changing job content/skills[cite: 34, 160, 197, 325, 461, 493, 681, 876]. Specific jobs eliminated or reduced (e.g., logging crews[cite: 195], sawmill setters, bank bookkeepers [cite: 675, 830]). Dislocation from plant closures mentioned[cite: 373, 459]. Reassignment common in some sectors[cite: 676, 839].",
+  "displaced_number": "Not quantified directly as number/share displaced. Focus on reduced *unit* requirements. Radial tires noted to *increase* labor needs initially[cite: 365, 377]. Health services becoming *more* labor intensive per patient[cite: 870, 990].",
+  "unemployment_underemployment_description": "Omitted in source (Focus is on occupational shifts within overall employment trends, not unemployment outcomes).",
+  "unemployment_underemployment_number": "Omitted in source",
+  "duration_of_unemployment": "Omitted in source",
+  "wage_changes_description": "Omitted in source",
+  "wage_changes_percent": "Omitted in source",
+  "moderators": [
+    "Output demand / Economic growth [cite: 36, 96, 199, 286, 417, 665, 800]",
+    "Capital investment levels [cite: 37, 123, 198, 301, 368, 441, 503-504]",
+    "Rate of technology diffusion [cite: 35, 45, 63, 206, 499, 749, 758]",
+    "Labor supply / Shortages [cite: 132, 149]",
+    "Union agreements / Adjustment mechanisms [cite: 176, 343, 473, 641, 836]",
+    "Government regulations (environmental, safety, banking, health, trade) [cite: 21, 102, 133, 504, 615, 668, 754, 885]",
+    "New materials / Product changes (fibers, tires) [cite: 49, 112, 365, 409]",
+    "International trade / Imports [cite: 102-108, 423]",
+    "Scale of operation [cite: 91, 123, 292, 718]"
+  ],
+  "effect_sizes": "Primarily average annual percentage rates of change (output, man-hours, productivity, employment, investment). Ratios for inter-plant efficiency comparisons. Specific quantitative impacts cited for particular technologies (e.g., loom output increase[cite: 68, 70], tire labor requirements change[cite: 397, 427], manpower savings from automation in lumber [cite: 215, 246, 250-251, 256, 261], banking[cite: 930], health [cite: 916]).",
+  "statistical_measures": "Average annual rates of change, Index numbers, Ratios (efficiency, financial), Counts (employees, firms), Dollar values (expenditures), Percentages (occupational distribution, etc.).",
+  "key_themes": [
+    "Technology reduces unit labor requirements (esp. semi/unskilled) & changes skill needs.",
+    "Productivity generally increasing due to tech & investment.",
+    "Output growth often offsets labor savings (in this period).",
+    "Significant intra-industry efficiency variation exists.",
+    "Computerization/automation increasing across industries.",
+    "New materials/products drive process changes.",
+    "Worker adjustment mechanisms vary by industry/unionization."
+  ],
+  "text_fragments": [
+    "\"Technological changes... are reducing unit labor requirements for semiskilled and unskilled workers and changing the job content...\" (Textiles) [cite: 34]",
+    "\"new machinery... may reduce labor requirements and, at the same time, increase output.\" (Lumber) [cite: 194]",
+    "\"...changes affect job content and reduce requirements per tire for semiskilled operators and unskilled workers.\" (Tires) [cite: 364]",
+    "\"Radial tire manufacture... currently requires more unit man-hours...\" (Tires) [cite: 365]",
+    "\"innovations will eliminate some clerical and related occupations, change the job content and skill requirements of others, and create some new occupations.\" (Banking) [cite: 681]",
+    "\"New technology will continue to be a source of efficiency and productivity gains in health services.\" [cite: 861]"
+  ],
+  "narrative_descriptions": "Each industry section provides a narrative describing major technologies, their operational impacts, and effects on production, productivity, and manpower, within the context of market trends and investment.",
+  "technological_changes_context": "     Notes diffusion rates [cite: 42-82, 207-285, 374-416, 491-555, 679-791, 889-970].",
+  "economic_conditions": "Analysis covers 1960-1973 period. Projections based on explicit assumptions about 1970s/80s economy (growth, unemployment, inflation). Considers demand growth, imports, energy constraints (briefly)[cite: 20, 96, 102, 199, 286, 417, 665, 800].",
+  "institutional_context": "References SIC codes. Discusses role of unions, collective bargaining, adjustment provisions [cite: 176-188, 343-351, 473-486, 641-658, 836-838]. Mentions government data/projections (BLS), regulations (environmental, safety, banking, health, trade), and specific agencies/acts (Fed, HEW, Health Manpower Acts) [cite: 1, 14, 21, 102, 133, 504, 615, 668, 730, 817, 885, 1033-1035]. Notes role of trade associations.",
+  "main_findings": "Technology increases productivity and reduces unit labor requirements (esp. lower-skilled), shifting occupational structure towards higher skills/technical roles. Net employment effects depended on strong output growth during 1960-73. Significant plant-level efficiency differences linked to investment. Computerization is pervasive. Worker adjustment practices vary.",
+  "conclusions": "Technology significantly impacts productivity and labor structure. Skill needs are rising. Computers are key drivers. Investment is crucial. Net employment outcomes depend on demand. Worker adjustment is an ongoing issue.",
+  "methodological_limitations": "Projections rely on specific assumptions. Productivity data limitations for some industries[cite: 36, 109, 200, 290, 671, 869]. Proxy measures (value added/man-hour) have limits[cite: 119, 295, 600]. Data aggregation issues [cite: 314, 629-630]. Analysis predates some major economic shifts. Quality changes hard to measure (esp. Health)[cite: 889, 994].",
+  "coherence_assessment": "Findings are coherent across industries and methods. Analysis of technology, quantitative trends, and occupational shifts align to support conclusions.",
+  "adequacy_assessment": "Data seems adequate for describing trends (1960-73) and impacts within the report's scope, using official statistics and industry sources. Limitations noted where specific data (e.g., productivity indexes) are unavailable.",
+  "relevance_assessment_quality": "Highly relevant. Provides empirical data/analysis on tech change and labor impacts (productivity, employment, occupations) across multiple industries in the pre-1980 period (focus 1960s-early 70s). Directly addresses review questions."
+}
